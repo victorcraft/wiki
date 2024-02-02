@@ -17,7 +17,7 @@ Les salons textuels, sur Discord, permettent aux utilisateurs de discuter par me
 
 Afin de créer un salon textuel sur un serveur, il faut avoir la permission "Gérer les salons". Les salons textuels, tout comme les salons vocaux ou les salons d'annonce, peuvent être publics ou privés.
 
-<img src="https://i.discord.fr/lcb.png" width="421" height="" /> 
+<img src="https://cdn.discordapp.com/attachments/988496656603447366/1203113280764383262/wiki_fr_discord.png?ex=65cfe98e&is=65bd748e&hm=d188170727f0b5ca150ba7a8d2aa1f589bf23040a9a04973cbbf748e1ec71ab5&" width="421" height="" /> 
 
 ## La discussion
 
