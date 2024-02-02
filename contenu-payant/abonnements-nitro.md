@@ -16,30 +16,35 @@ Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-
 
 ![Capture Nitro](https://i.discord.fr/bRo.png)
 
-## Nitro Classic ($4,99 par mois / $49,99 par an)
-Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
+## Nitro Basic ($2,99 par mois / $29,99 par an)
 
 L'abonnement octroie des avantages supplémentaires, comme : 
-* Utilisation des GIF en avatar
-* Choisir son discriminant Discord
-* Qualité de partage d'écran améliorée
-* Partage de fichiers de 8Mo à 50Mo
-* Badge sur le profil de l'utilisateur
-* -30% sur l'achat de boost
+* Super réactions illimitées
+* Des émojis personnalisés où tu veux, qui peuvent être animés
+* Des autocollants personnalisés où tu veux
+* Icônes d'application personnalisées
+* Partage de fichiers plus importants (50 MO)
+* Un badge Nitro sur ton profil
+* Des arrière-plans personnalisés pour la vidéo
 
 ## Nitro ($9,99 par mois / $99,99 par an)
 Nitro est l'abonnement le plus utilisé, avec le plus de bénéfices.
 
 Encore une fois, il y a des avantages supplémentaires, comme :
 * Tous les avantages de Nitro Classic
-* Partage de fichiers de 8Mo à ~~50Mo~~ 100Mo
-* Partage d'écran à la source
-* Deux boosts de serveur inclus (voir [ici](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost))
-* Une bannière de profil 
-* La taille des messages est doublée, elle passe de 2000 à 4000 caractères
-* La limite du nombre de serveurs pouvant être rejoint double pour atteindre 200
-* 300 stickers exclusifs à Nitro et la possibilité d'utiliser les stickers personnalisés sur n'importe où.
-* Pouvoir choisir une photo de profil, une bannière et une descripion par serveur.
+* Streaming HD (4K et 60 FPS
+* Partage de fichiers plus importants (500 Mo)
+* 2 boosts gratuits
+* 30 % sur les Boosts supplémentaires
+* Avatar animé, bannière et thème de profil
+* Accès anticipé aux Clips
+* Des profils de serveur personnalisés
+* Rejoins jusqu'à 200 serveurs
+* Messages plus longs, jusqu'à 4 000 caractères
+* Des couleurs pour ton thème Discord
+* Des sons personnalisés où tu veux
+* Sons d'entrée personnalisés
+* Prix spéciaux et objets exclusifs pour les membres
 
 :::note 
 Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnement Discord Nitro, il restera sur tous les serveurs sur lesquels il est. Il lui sera toutefois impossible d'en rejoindre ou d'en créer davantage tant qu'il ne sera pas redescendu en dessous de cette limite. 
