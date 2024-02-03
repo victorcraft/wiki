@@ -23,7 +23,7 @@ Quelqu'un payant l'abonnement Nitro possède 2 boosts à utiliser comme il le so
 :::
 
 ## Quel est le prix d'un boost ?
-Un boost coûte 4,99 $US, mais si l'utilisateur possède un abonnement Nitro, il bénéficie de -30% sur l'achat d'un boost (soit 3,49 $US).
+Un boost coûte 5,06 €EUR, mais si l'utilisateur possède un abonnement Nitro, il bénéficie de -30% sur l'achat d'un boost.
 
 ## Qu'est-ce que sont les niveaux de serveur ?
 Un niveau de serveur est un palier qui permet de débloquer des avantages au sein d'un serveur. Ils sont débloqués dès lors que le serveur a atteint un nombre de boost défini.
@@ -58,6 +58,8 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 * URL personnalisée pour l'invitation du serveur
 * Limite de téléchargement pour tous les membres de 100Mo
 * Bannière animée de serveur
+
+:::info Information Vous pourrez toujours booster un serveur qui a atteint le niveau 3, mais le serveur ne gagnera plus d'avantages :::
 
 ## Comment procéder à l'achat de boost ?
 Pour cela, il faut se rendre sur le serveur en question, et cliquer sur "Boost de serveur". Si l'utilisateur possède des boosts inclus dans un abonnement Nitro, il peut également donner ses boosts au serveur avec le même bouton.
